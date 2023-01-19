@@ -5,7 +5,7 @@
 
 
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/ruck18/Painel-webv2/raw/main/install/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/ruck18/baseweb/raw/main/install/ubuinst.sh)
 ```
 </br>
 
@@ -16,7 +16,7 @@ pulsenet
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/ruck18/Painel-webv2/raw/main/install/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/ruck18/baseweb/raw/main/install/sincpainel.sh)
 ```
 
 
